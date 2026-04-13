@@ -7,10 +7,10 @@ Aplicación web sencilla para la gestión de tareas desarrollada con Node.js y E
   - HTML, CSS y JavaScript
 
 ## Funcionalidades
-Agregar nuevas tareas.
-Marcar tareas como completadas.
-Eliminar tareas.
-Interfaz limpia y responsive.
+  - Agregar nuevas tareas.
+  - Marcar tareas como completadas.
+  - Eliminar tareas.
+  - Interfaz limpia y responsive.
 
 ## Instalación
 
